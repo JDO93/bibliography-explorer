@@ -14,13 +14,11 @@
 <main class="workspace">
 <aside id="filters" class="filters" aria-label="Explore filters">
   <label class="search-label" for="search">Search the bibliography</label><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Case, method, institution…"></div>
+  <label class="select-label" for="term">Explore a shared value</label><select id="term"><option value="">All values</option></select>
   <div class="filter-heading"><h2>Collections</h2><button id="reset" class="text-button">Reset all</button></div>
   <label class="collection"><input type="checkbox" name="category" value="Creative evaluation" checked><span class="dot creative"></span><span>Creative evaluation</span><b>21</b></label>
   <label class="collection"><input type="checkbox" name="category" value="Participatory evaluation" checked><span class="dot participatory"></span><span>Participatory evaluation</span><b>11</b></label>
   <div class="filter-heading"><h2>Connect by</h2><span class="small">shared values</span></div><div id="dimensions"></div>
-  <label class="select-label" for="term">Explore a shared value</label><select id="term"><option value="">All values</option></select>
-  <label class="select-label" for="minimum">Minimum shared dimensions</label><select id="minimum"><option value="1">1 dimension</option><option value="2">2 dimensions</option><option value="3">3 dimensions</option></select>
-  <label class="standalone"><input id="cross" type="checkbox">Across collections only</label>
   <div class="filter-foot"><span class="small-cap">READING THE MAP</span><p>Lines connect cases with shared characteristics. Hover for a preview; select a case to read more.</p></div>
 </aside>
 <section class="explore" aria-label="Bibliography views"><div class="view-toolbar"><nav aria-label="View"><button data-view="network" class="active" aria-pressed="true">Connections</button><button data-view="library" aria-pressed="false">Case studies</button><button data-view="dimensions" aria-pressed="false">Guide</button></nav><span id="result-count" aria-live="polite"></span></div>
