@@ -39,4 +39,4 @@ Case descriptions and citations retain their original wording. A connection is a
 └── README.md
 ```
 
-Built with HTML, CSS, JavaScript, and SVG. The collection is bundled with the site, which also works offline. **Export collection** downloads the structured bibliography as JSON.
+Built with HTML, CSS, JavaScript, and SVG. The collection is bundled with the site, which also works offline.
