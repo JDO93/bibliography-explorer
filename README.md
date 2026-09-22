@@ -1,12 +1,18 @@
-# Project Beta
+# Social Innovation Evaluation
 
-An interactive bibliography explorer for researchers working with **creative evaluation** and **participatory evaluation**. Browse 32 case studies, explore 124 evaluation stages, and discover connections through shared methods, design practices, and evidence.
+An interactive bibliography explorer for researchers working with **creative evaluation** and **participatory evaluation**. Browse  case studies, explore evaluation stages, and discover connections through shared methods, design practices, and evidence.
+
+This bibliography was developed primarily within PhD research examining the measurement and assessment of social innovation from a design perspective.
+
+**Bibliography compiled by Beatriz Bonilla Berrocal.**
 
 ## Explore the collection
 
 - **Connections:** explore a network of cases, filter the characteristics that connect them, and hover for descriptions and bibliographic sources.
 - **Case studies:** browse the collection as searchable cards.
 - **Case details:** read an overview, explore evaluation stages, see a consolidated tools list, compare related cases, and consult the original citations.
+
+Search suggests matching case titles, methods and tools, and other characteristics as you type. Choose a suggestion with a click or the arrow keys and Enter. The selected case or value stays visible as a labeled filter until you clear it. **Explore values** lists every recorded value by dimension, including values found in only one case. These filters are independent of the dimensions selected under **Connect by**.
 
 Select a node to bring its directly connected cases closer and move unrelated cases to the edge. Drag nodes to rearrange them, drag the background to pan, and use the zoom controls to explore. **Show all cases** restores your previous arrangement.
 
@@ -18,30 +24,6 @@ Connections reflect shared terms under the selected filters. Design practices, m
 
 Case descriptions and citations retain their original wording. A connection is an aid to exploration, not a quality rating. Map distance is not a similarity score, and different wording can leave otherwise related studies unconnected.
 
-## Run locally
-
-Open `index.html` in a browser. No installation, account, build step, or backend is required.
-
-Alternatively, with Python installed, run this command from the repository folder and open <http://localhost:8000>:
-
-```sh
-python -m http.server 8000
-```
-
-Node arrangements are temporary and remain in the current page session. Refreshing the page resets them.
-
-## Publish with GitHub Pages
-
-1. Commit and push the repository to GitHub.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select **main** and **/ (root)**, then save.
-
-Once the deployment finishes, the site will be available at:
-
-**https://jdo93.github.io/bibliography-explorer/**
-
-Subsequent pushes to `main` update the published site. See the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for setup details.
 
 ## Repository structure
 
