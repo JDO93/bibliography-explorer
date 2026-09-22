@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Local spreadsheet originals
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Project Beta · Evaluation case studies</title>
+  <meta name="description" content="Explore creative and participatory evaluation cases and their shared dimensions.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23162238'/%3E%3Cpath d='M9 10L23 15L12 25Z' fill='none' stroke='%239e93ff' stroke-width='2'/%3E%3Ccircle cx='9' cy='10' r='4' fill='%239e93ff'/%3E%3Ccircle cx='23' cy='15' r='4' fill='%2345c4b6'/%3E%3Ccircle cx='12' cy='25' r='3' fill='%239e93ff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css"><script defer src="data.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<header class="masthead"><a class="brand" href="./">Project <span class="beta-label">Beta</span></a><span class="header-note">Creative & participatory evaluation</span></header>
+<div class="intro"><div><h1>Explore evaluation case studies</h1><p>Find shared practices, compare approaches, and explore the literature.</p></div><div class="totals"><div><strong>32</strong><span>case studies</span></div><div><strong>124</strong><span>evaluation stages</span></div><div><strong>2</strong><span>collections</span></div></div></div>
+<button id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filters">Filters & connections <span aria-hidden="true">+</span></button>
+<main class="workspace">
+<aside id="filters" class="filters" aria-label="Explore filters">
+  <label class="search-label" for="search">Search the bibliography</label><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Case, method, institution…"></div>
+  <div class="filter-heading"><h2>Collections</h2><button id="reset" class="text-button">Reset all</button></div>
+  <label class="collection"><input type="checkbox" name="category" value="Creative evaluation" checked><span class="dot creative"></span><span>Creative evaluation</span><b>21</b></label>
+  <label class="collection"><input type="checkbox" name="category" value="Participatory evaluation" checked><span class="dot participatory"></span><span>Participatory evaluation</span><b>11</b></label>
+  <div class="filter-heading"><h2>Connect by</h2><span class="small">shared values</span></div><div id="dimensions"></div>
+  <label class="select-label" for="term">Explore a shared value</label><select id="term"><option value="">All values</option></select>
+  <label class="select-label" for="minimum">Minimum shared dimensions</label><select id="minimum"><option value="1">1 dimension</option><option value="2">2 dimensions</option><option value="3">3 dimensions</option></select>
+  <label class="standalone"><input id="cross" type="checkbox">Across collections only</label>
+  <div class="filter-foot"><span class="small-cap">READING THE MAP</span><p>Lines connect cases with shared characteristics. Hover for a preview; select a case to read more.</p></div>
+</aside>
+<section class="explore" aria-label="Bibliography views"><div class="view-toolbar"><nav aria-label="View"><button data-view="network" class="active" aria-pressed="true">Connections</button><button data-view="library" aria-pressed="false">Case studies</button><button data-view="dimensions" aria-pressed="false">Guide</button></nav><span id="result-count" aria-live="polite"></span></div>
+<div id="network-view" class="view"><div class="map-caption"><span class="small-cap">RELATIONSHIP MAP</span><p id="map-summary"></p><span id="dimension-summary"></span><span id="focus-note" role="status" hidden></span><button id="clear-selection" class="text-button" hidden>Show all cases</button></div><svg id="network" viewBox="0 0 900 700" aria-label="Case relationship network"></svg><div id="empty" hidden>No cases match these filters.<br><button class="text-button" id="empty-reset">Reset filters</button></div><div class="map-bottom"><div class="legend"><span><i class="dot creative"></i> Creative</span><span><i class="dot participatory"></i> Participatory</span></div><div class="map-tools"><button id="layout-reset" class="layout-reset" title="Restore the automatic arrangement">Reset layout</button><div class="zoom"><button id="zoom-out" aria-label="Zoom out">−</button><button id="zoom-reset" aria-label="Reset map zoom">Fit</button><button id="zoom-in" aria-label="Zoom in">+</button></div></div></div><p class="map-note"><span>Hover to preview · Click to open</span><span>Drag nodes to arrange · Drag background to pan</span></p></div>
+<div id="library-view" class="view" hidden><div id="library"></div></div>
+<div id="dimensions-view" class="view" hidden><div class="guide"><h2>Explore what cases share</h2><p>Choose a characteristic to connect cases that use the same terms to describe their work. Design practices, methods, and collected evidence are useful starting points.</p><div id="profiles"></div><h3>How to read a connection</h3><p>A connection means cases share a description of a practice, method, or another selected characteristic. It does not rate the quality of a study. Similar approaches may appear separately when they are described differently.</p><p>Selecting a case brings its direct connections closer and moves unrelated cases to the edge. Close the case or choose Show all cases to restore your arrangement. Open Related cases to see what it shares with others. Map positions help arrange the cases; distance is not a measure of similarity.</p></div></div>
+</section>
+<aside id="inspector" class="inspector" aria-label="Case details" hidden></aside>
+</main><footer><span>Project Beta</span><a href="data/bibliography.json" download>Export collection ↓</a></footer>
+<div id="node-preview" class="node-preview" role="tooltip" hidden></div>
+</body></html>

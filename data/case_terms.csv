@@ -1,0 +1,783 @@
+﻿case_id,dimension,term_id,term,source_cell,raw_value,rule
+C01,practices,practices:design probes,Design probes,I2,"Design probes, exhibition as prototype",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:exhibition as prototype,exhibition as prototype,I2,"Design probes, exhibition as prototype",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:observation,Observation,I3,"Observation, cultural probes, sensitizing tools",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:cultural probes,cultural probes,I3,"Observation, cultural probes, sensitizing tools",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:sensitizing tools,sensitizing tools,I3,"Observation, cultural probes, sensitizing tools",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:journey mapping,Journey mapping,I4,"Journey mapping, user scenario analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:user scenario analysis,user scenario analysis,I4,"Journey mapping, user scenario analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:prototype for public feedback,Prototype for public feedback,I5,"Prototype for public feedback, iteration based on field insights",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,practices,practices:iteration based on field insights,iteration based on field insights,I5,"Prototype for public feedback, iteration based on field insights",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:living lab setup,Living lab setup,H2,Living lab setup; interdisciplinary team; curated public participation	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:interdisciplinary team,interdisciplinary team,H2,Living lab setup; interdisciplinary team; curated public participation	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:curated public participation,curated public participation,H2,Living lab setup; interdisciplinary team; curated public participation	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:direct/lateral observation,Direct/lateral observation,H3,"Direct/lateral observation, contextual inquiries, expert workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:contextual inquiries,contextual inquiries,H3,"Direct/lateral observation, contextual inquiries, expert workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:expert workshops,expert workshops,H3,"Direct/lateral observation, contextual inquiries, expert workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:creative engagement model,Creative Engagement Model,H4,Creative Engagement Model; behavioral and conceptual change tracking	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:behavioral and conceptual change tracking,behavioral and conceptual change tracking,H4,Creative Engagement Model; behavioral and conceptual change tracking	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:reflection-in-action documentation,Reflection-in-action documentation,H5,"Reflection-in-action documentation; criteria for “immediate, sustained, and creative” engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:criteria for “immediate,criteria for “immediate,H5,"Reflection-in-action documentation; criteria for “immediate, sustained, and creative” engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:sustained,sustained,H5,"Reflection-in-action documentation; criteria for “immediate, sustained, and creative” engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,methods,methods:and creative” engagement,and creative” engagement,H5,"Reflection-in-action documentation; criteria for “immediate, sustained, and creative” engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C01,data_source,data_source:observational data,observational data,N2,observational data,trim whitespace; case-insensitive key
+C01,data_source,data_source:interview transcripts,interview transcripts,N3,interview transcripts,trim whitespace; case-insensitive key
+C01,data_source,data_source:behavioral tracking,behavioral tracking,N4,behavioral tracking,trim whitespace; case-insensitive key
+C01,stage,stage:framing & planning,Framing & Planning,F2,Framing & Planning,trim whitespace; case-insensitive key
+C01,stage,stage:data collection & observation,Data Collection & Observation,F3,Data Collection & Observation,trim whitespace; case-insensitive key
+C01,stage,stage:analysis & interpretation,Analysis & Interpretation,F4,Analysis & Interpretation,trim whitespace; case-insensitive key
+C01,stage,stage:output & learning,Output & Learning,F5,Output & Learning,trim whitespace; case-insensitive key
+C01,institution,"institution:creativity and cognition studios. university of technology, sydney","Creativity and Cognition Studios. University of Technology, Sydney",D2,"Creativity and Cognition Studios.
+University of Technology, Sydney",trim whitespace; case-insensitive key
+C01,data_type,data_type:qualitative,Qualitative,M2,Qualitative ,trim whitespace; case-insensitive key
+C01,type,type:experiment,Experiment,B2,Experiment,trim whitespace; case-insensitive key
+C02,practices,practices:co-briefing,Co-briefing,I6,"Co-briefing, interdisciplinary framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,practices,practices:interdisciplinary framing,interdisciplinary framing,I6,"Co-briefing, interdisciplinary framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,practices,practices:team mapping,Team mapping,I7,"Team mapping, reflexive sessions",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,practices,practices:reflexive sessions,reflexive sessions,I7,"Team mapping, reflexive sessions",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,practices,practices:experience mapping,Experience mapping,I8,"Experience mapping, co-design evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,practices,practices:co-design evaluation,co-design evaluation,I8,"Experience mapping, co-design evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:team setup discussions,Team setup discussions,H6,"Team setup discussions, common goal alignment",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:common goal alignment,common goal alignment,H6,"Team setup discussions, common goal alignment",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:observation,Observation,H7,"Observation, communication analysis, interviews	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:communication analysis,communication analysis,H7,"Observation, communication analysis, interviews	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:interviews,interviews,H7,"Observation, communication analysis, interviews	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:process documentation,Process documentation,H8,"Process documentation, outcome narratives	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,methods,methods:outcome narratives,outcome narratives,H8,"Process documentation, outcome narratives	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C02,data_source,data_source:communication records,communication records,N6,communication records,trim whitespace; case-insensitive key
+C02,data_source,data_source:interviews,interviews,N7,interviews,trim whitespace; case-insensitive key
+C02,data_source,data_source:field notes,field notes,N8,field notes,trim whitespace; case-insensitive key
+C02,stage,stage:framing,Framing,F6,Framing,trim whitespace; case-insensitive key
+C02,stage,stage:team evaluation,Team Evaluation,F7,Team Evaluation,trim whitespace; case-insensitive key
+C02,stage,stage:output & learning,Output & Learning,F8,Output & Learning	,trim whitespace; case-insensitive key
+C02,institution,"institution:creativity and cognition studios. university of technology, sydney","Creativity and Cognition Studios. University of Technology, Sydney",D6,"Creativity and Cognition Studios. 
+University of Technology, Sydney",trim whitespace; case-insensitive key
+C02,data_type,data_type:qualitative,Qualitative,M6,Qualitative,trim whitespace; case-insensitive key
+C02,type,type:experiment / collaboration study,Experiment / Collaboration study,B6,Experiment / Collaboration study,trim whitespace; case-insensitive key
+C03,practices,practices:user journey documentation,User journey documentation,I9,"User journey documentation, affective tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,practices,practices:affective tracking,affective tracking,I9,"User journey documentation, affective tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,practices,practices:affinity mapping,Affinity mapping,I10,"Affinity mapping, behavioral mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,practices,practices:behavioral mapping,behavioral mapping,I10,"Affinity mapping, behavioral mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,practices,practices:framework development,Framework development,I11,"Framework development, model building",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,practices,practices:model building,model building,I11,"Framework development, model building",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,methods,methods:structured observation,Structured observation,H9,"Structured observation, semi-structured interviews	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,methods,methods:semi-structured interviews,semi-structured interviews,H9,"Structured observation, semi-structured interviews	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,methods,methods:engagement analysis coding,Engagement analysis coding,H10,"Engagement analysis coding, pattern recognition	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,methods,methods:pattern recognition,pattern recognition,H10,"Engagement analysis coding, pattern recognition	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,methods,methods:synthesis of observational and interview data,Synthesis of observational and interview data,H11,Synthesis of observational and interview data	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C03,data_source,data_source:observation notes,observation notes,N9,observation notes,trim whitespace; case-insensitive key
+C03,data_source,data_source:coded behaviors,coded behaviors,N10,coded behaviors,trim whitespace; case-insensitive key
+C03,data_source,data_source:interviews,interviews,N11,interviews,trim whitespace; case-insensitive key
+C03,stage,stage:data collection,Data Collection,F9,Data Collection	,trim whitespace; case-insensitive key
+C03,stage,stage:analysis,Analysis,F10,Analysis,trim whitespace; case-insensitive key
+C03,stage,stage:output & learning,Output & Learning,F11,Output & Learning	,trim whitespace; case-insensitive key
+C03,institution,"institution:creativity and cognition studios. university of technology, sydney","Creativity and Cognition Studios. University of Technology, Sydney",D9,"Creativity and Cognition Studios. 
+University of Technology, Sydney",trim whitespace; case-insensitive key
+C03,data_type,data_type:qualitative,Qualitative,M9,Qualitative ,trim whitespace; case-insensitive key
+C03,type,type:experiment / multi-case study,Experiment / Multi-case study,B9,Experiment / Multi-case study,trim whitespace; case-insensitive key
+C04,practices,practices:design for play,Design for play,I12,"Design for play, emotional design",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,practices,practices:emotional design,emotional design,I12,"Design for play, emotional design",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,practices,practices:storytelling,Storytelling,I13,"Storytelling, narrative prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,practices,practices:narrative prototyping,narrative prototyping,I13,"Storytelling, narrative prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,methods,methods:framework conceptualization (pleasure framework),Framework conceptualization (Pleasure framework),H12,Framework conceptualization (Pleasure framework)	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,methods,methods:reflection-in-action,Reflection-in-action,H13,"Reflection-in-action, open-ended feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,methods,methods:open-ended feedback collection,open-ended feedback collection,H13,"Reflection-in-action, open-ended feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C04,data_source,data_source:participant feedback,participant feedback,N12,participant feedback,trim whitespace; case-insensitive key
+C04,data_source,data_source:experiential descriptions,experiential descriptions,N13,experiential descriptions,trim whitespace; case-insensitive key
+C04,stage,stage:framing,Framing,F12,Framing,trim whitespace; case-insensitive key
+C04,stage,stage:output & learning,Output & Learning,F13,Output & Learning	,trim whitespace; case-insensitive key
+C04,institution,"institution:creativity and cognition studios. university of technology, sydney","Creativity and Cognition Studios. University of Technology, Sydney",D12,"Creativity and Cognition Studios. 
+University of Technology, Sydney",trim whitespace; case-insensitive key
+C04,data_type,data_type:qualitative,Qualitative,M12,Qualitative ,trim whitespace; case-insensitive key
+C04,type,type:tool / framework development,Tool / Framework development,B12,Tool / Framework development,trim whitespace; case-insensitive key
+C05,practices,practices:contextual briefing,Contextual briefing,I14,"Contextual briefing, reframing evaluation as creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:reframing evaluation as creation,reframing evaluation as creation,I14,"Contextual briefing, reframing evaluation as creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:cultural probes,Cultural probes,I15,"Cultural probes, open exploration",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:open exploration,open exploration,I15,"Cultural probes, open exploration",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:performed storytelling,Performed storytelling,I16,"Performed storytelling, experiential recording",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:experiential recording,experiential recording,I16,"Performed storytelling, experiential recording",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:narrative prototyping,Narrative prototyping,I17,"Narrative prototyping, expressive sketching",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:expressive sketching,expressive sketching,I17,"Narrative prototyping, expressive sketching",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:reflection-in-action,Reflection-in-action,I18,"Reflection-in-action, public display as evaluation loop",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,practices,practices:public display as evaluation loop,public display as evaluation loop,I18,"Reflection-in-action, public display as evaluation loop",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:verbal introduction to the installation,Verbal introduction to the installation,H14,Verbal introduction to the installation; context for the evaluation approach	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:context for the evaluation approach,context for the evaluation approach,H14,Verbal introduction to the installation; context for the evaluation approach	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:first 15-minute session: interaction with installation without instructions,First 15-minute session: interaction with installation without instructions,H15,First 15-minute session: interaction with installation without instructions	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:15-minute session with camera and editing tools provided,15-minute session with camera and editing tools provided,H16,15-minute session with camera and editing tools provided	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:artistic materials provided,Artistic materials provided,H17,Artistic materials provided; free medium choice; recorded with one static camera	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:free medium choice,free medium choice,H17,Artistic materials provided; free medium choice; recorded with one static camera	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:recorded with one static camera,recorded with one static camera,H17,Artistic materials provided; free medium choice; recorded with one static camera	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,methods,methods:one-paragraph reflection + curated exhibition,One-paragraph reflection + curated exhibition,H18,One-paragraph reflection + curated exhibition	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C05,data_source,"data_source:artistic outputs (videos, artworks)","artistic outputs (videos, artworks)",N14,"artistic outputs (videos, artworks)",trim whitespace; case-insensitive key
+C05,data_source,data_source:written reflections,written reflections,N15,written reflections,trim whitespace; case-insensitive key
+C05,data_source,data_source:live observation,live observation,N16,live observation,trim whitespace; case-insensitive key
+C05,stage,stage:framing,Framing,F14,Framing,trim whitespace; case-insensitive key
+C05,stage,stage:session 1 – exploration,Session 1 – Exploration,F15,Session 1 – Exploration,trim whitespace; case-insensitive key
+C05,stage,stage:session 2 – video,Session 2 – Video,F16,Session 2 – Video	,trim whitespace; case-insensitive key
+C05,stage,stage:session 3 – artistic work,Session 3 – Artistic Work,F17,Session 3 – Artistic Work	,trim whitespace; case-insensitive key
+C05,stage,stage:reflection & exhibition,Reflection & Exhibition,F18,Reflection & Exhibition	,trim whitespace; case-insensitive key
+C05,institution,institution:graz university of technology & university of music and performing arts graz. austria,Graz University of Technology & University of Music and Performing Arts Graz. Austria,D14,"Graz University of Technology & University of Music and Performing Arts Graz.
+Austria
+",trim whitespace; case-insensitive key
+C05,data_type,data_type:qualitative,Qualitative,M14,Qualitative ,trim whitespace; case-insensitive key
+C05,type,type:experiment / method,Experiment / Method,B14,Experiment / Method,trim whitespace; case-insensitive key
+C06,practices,practices:speculative framing,Speculative framing,I19,"Speculative framing, ambiguous prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,practices,practices:ambiguous prototyping,ambiguous prototyping,I19,"Speculative framing, ambiguous prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,practices,practices:experience design,Experience design,I20,"Experience design, interpretive use observation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,practices,practices:interpretive use observation,interpretive use observation,I20,"Experience design, interpretive use observation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,practices,practices:concept-building from user interpretation,Concept-building from user interpretation,I21,Concept-building from user interpretation,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,practices,practices:design iteration based on user theories,Design iteration based on user theories,I22,Design iteration based on user theories,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:artistic concept presentation,Artistic concept presentation,H19,Artistic concept presentation; no predefined functionality given to users	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:no predefined functionality given to users,no predefined functionality given to users,H19,Artistic concept presentation; no predefined functionality given to users	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:co-discovery adaptation (no task),Co-discovery adaptation (no task),H20,"Co-discovery adaptation (no task), group observation, emotional expression logging	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:group observation,group observation,H20,"Co-discovery adaptation (no task), group observation, emotional expression logging	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:emotional expression logging,emotional expression logging,H20,"Co-discovery adaptation (no task), group observation, emotional expression logging	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:open-ended group interviews,Open-ended group interviews,H21,"Open-ended group interviews, video-recorded sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:video-recorded sessions,video-recorded sessions,H21,"Open-ended group interviews, video-recorded sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:reflexive analysis by researchers,Reflexive analysis by researchers,H22,"Reflexive analysis by researchers, reconfiguration of expressive modalities	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,methods,methods:reconfiguration of expressive modalities,reconfiguration of expressive modalities,H22,"Reflexive analysis by researchers, reconfiguration of expressive modalities	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C06,data_source,data_source:group conversations,group conversations,N19,group conversations,trim whitespace; case-insensitive key
+C06,data_source,data_source:user quotes,user quotes,N20,user quotes,trim whitespace; case-insensitive key
+C06,data_source,data_source:behaviors during interaction,behaviors during interaction,N21,behaviors during interaction,trim whitespace; case-insensitive key
+C06,data_source,data_source:interviews,interviews,N22,interviews,trim whitespace; case-insensitive key
+C06,stage,stage:framing,Framing,F19,Framing,trim whitespace; case-insensitive key
+C06,stage,stage:exploration & interaction,Exploration & Interaction,F20,Exploration & Interaction,trim whitespace; case-insensitive key
+C06,stage,stage:open-ended interview,Open-ended Interview,F21,Open-ended Interview	,trim whitespace; case-insensitive key
+C06,stage,stage:redesign feedback,Redesign Feedback,F22,Redesign Feedback	,trim whitespace; case-insensitive key
+C06,institution,institution:swedish institute of computer science (sics) & cornell university,Swedish Institute of Computer Science (SICS) & Cornell University,D19,Swedish Institute of Computer Science (SICS) & Cornell University,trim whitespace; case-insensitive key
+C06,data_type,data_type:qualitative,Qualitative,M19,Qualitative ,trim whitespace; case-insensitive key
+C06,type,type:interactive art installation / experiment,Interactive art installation / Experiment,B19,Interactive art installation /  Experiment,trim whitespace; case-insensitive key
+C07,practices,practices:ludic framing,Ludic framing,I23,"Ludic framing, conceptual immersion",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,practices,practices:conceptual immersion,conceptual immersion,I23,"Ludic framing, conceptual immersion",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,practices,practices:cultural probes,Cultural probes,I24,"Cultural probes, in-situ interaction analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,practices,practices:in-situ interaction analysis,in-situ interaction analysis,I24,"Cultural probes, in-situ interaction analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,practices,practices:reflection-in-action,Reflection-in-action,I25,"Reflection-in-action, post-experience reflection",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,practices,practices:post-experience reflection,post-experience reflection,I25,"Reflection-in-action, post-experience reflection",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:exhibition framing,Exhibition framing,H23,"Exhibition framing, brief contextual introduction	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:brief contextual introduction,brief contextual introduction,H23,"Exhibition framing, brief contextual introduction	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:shadowing,Shadowing,H24,"Shadowing, observation notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:observation notes,observation notes,H24,"Shadowing, observation notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:written questionnaire,Written questionnaire,H25,"Written questionnaire, open discussion	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,methods,methods:open discussion,open discussion,H25,"Written questionnaire, open discussion	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C07,data_source,data_source:field notes,field notes,N23,field notes,trim whitespace; case-insensitive key
+C07,data_source,data_source:conversations,conversations,N24,conversations,trim whitespace; case-insensitive key
+C07,data_source,data_source:written responses,written responses,N25,written responses,trim whitespace; case-insensitive key
+C07,stage,stage:framing,Framing,F23,Framing,trim whitespace; case-insensitive key
+C07,stage,stage:observation (shadowing),Observation (Shadowing),F24,Observation (Shadowing)	,trim whitespace; case-insensitive key
+C07,stage,stage:questionnaire + discussion,Questionnaire + Discussion,F25,Questionnaire + Discussion,trim whitespace; case-insensitive key
+C07,institution,"institution:australasian crc for interaction design, creativity and cognition studios, university of technology sydney, simon fraser university","Australasian CRC for Interaction Design, Creativity and Cognition Studios, University of Technology Sydney, Simon Fraser University",D23,"Australasian CRC for Interaction Design, Creativity and Cognition Studios, University of Technology Sydney, Simon Fraser University",trim whitespace; case-insensitive key
+C07,data_type,data_type:qualitative,Qualitative,M23,Qualitative ,trim whitespace; case-insensitive key
+C07,type,type:exhibition/interactive art evaluation,Exhibition/Interactive Art Evaluation,B23,Exhibition/Interactive Art Evaluation,trim whitespace; case-insensitive key
+C08,practices,practices:curatorial framing,Curatorial framing,I26,"Curatorial framing, conceptual orientation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:conceptual orientation,conceptual orientation,I26,"Curatorial framing, conceptual orientation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:situated feedback,Situated feedback,I27,"Situated feedback, observation interpretation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:observation interpretation,observation interpretation,I27,"Situated feedback, observation interpretation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:expert reflection,Expert reflection,I28,"Expert reflection, comparative insight gathering",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:comparative insight gathering,comparative insight gathering,I28,"Expert reflection, comparative insight gathering",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:cross-case analysis,Cross-case analysis,I29,"Cross-case analysis, community-informed synthesis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,practices,practices:community-informed synthesis,community-informed synthesis,I29,"Cross-case analysis, community-informed synthesis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:conference framing,Conference framing,H26,"Conference framing, thematic context	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:thematic context,thematic context,H26,"Conference framing, thematic context	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:shadowing,Shadowing,H27,"Shadowing, fly-on-the-wall observation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:fly-on-the-wall observation,fly-on-the-wall observation,H27,"Shadowing, fly-on-the-wall observation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:written questionnaires,Written questionnaires,H28,"Written questionnaires, informal conversations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:informal conversations,informal conversations,H28,"Written questionnaires, informal conversations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:grounded theory coding,Grounded theory coding,H29,"Grounded theory coding, interpretation triangulation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,methods,methods:interpretation triangulation,interpretation triangulation,H29,"Grounded theory coding, interpretation triangulation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C08,data_source,data_source:questionnaires,questionnaires,N26,questionnaires,trim whitespace; case-insensitive key
+C08,data_source,data_source:observation notes,observation notes,N27,observation notes,trim whitespace; case-insensitive key
+C08,data_source,data_source:interview content,interview content,N28,interview content,trim whitespace; case-insensitive key
+C08,stage,stage:framing,Framing,F26,Framing,trim whitespace; case-insensitive key
+C08,stage,stage:observation,Observation,F27,Observation,trim whitespace; case-insensitive key
+C08,stage,stage:questionnaire + discussion,Questionnaire + Discussion,F28,Questionnaire + Discussion,trim whitespace; case-insensitive key
+C08,stage,stage:comparative reflection,Comparative Reflection,F29,Comparative Reflection	,trim whitespace; case-insensitive key
+C08,institution,"institution:australasian crc for interaction design, creativity and cognition studios, university of technology sydney, simon fraser university","Australasian CRC for Interaction Design, Creativity and Cognition Studios, University of Technology Sydney, Simon Fraser University",D26,"Australasian CRC for Interaction Design, Creativity and Cognition Studios, University of Technology Sydney, Simon Fraser University",trim whitespace; case-insensitive key
+C08,data_type,data_type:qualitative,Qualitative,M26,Qualitative ,trim whitespace; case-insensitive key
+C08,type,type:exhibition / expert audience evaluation,Exhibition / Expert audience evaluation,B26,Exhibition / Expert audience evaluation,trim whitespace; case-insensitive key
+C09,practices,practices:participatory idea generation,Participatory idea generation,I30,"Participatory idea generation, theme co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:theme co-creation,theme co-creation,I30,"Participatory idea generation, theme co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:collaborative prototyping,Collaborative prototyping,I31,"Collaborative prototyping, interdisciplinary making",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:interdisciplinary making,interdisciplinary making,I31,"Collaborative prototyping, interdisciplinary making",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:narrative structuring,Narrative structuring,I32,"Narrative structuring, spatial storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:spatial storytelling,spatial storytelling,I32,"Narrative structuring, spatial storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:user experience design,User experience design,I33,"User experience design, live feedback integration",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:live feedback integration,live feedback integration,I33,"User experience design, live feedback integration",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:reflection-in-action,Reflection-in-action,I34,"Reflection-in-action, qualitative feedback capture",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,practices,practices:qualitative feedback capture,qualitative feedback capture,I34,"Reflection-in-action, qualitative feedback capture",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:group brainstorming sessions,Group brainstorming sessions,H30,"Group brainstorming sessions, reflective prompts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:reflective prompts,reflective prompts,H30,"Group brainstorming sessions, reflective prompts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:co-creation workshops,Co-creation workshops,H31,"Co-creation workshops, material exploration sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:material exploration sessions,material exploration sessions,H31,"Co-creation workshops, material exploration sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:hands-on construction workshops,Hands-on construction workshops,H32,"Hands-on construction workshops, rehearsals, curatorial meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:rehearsals,rehearsals,H32,"Hands-on construction workshops, rehearsals, curatorial meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:curatorial meetings,curatorial meetings,H32,"Hands-on construction workshops, rehearsals, curatorial meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:exhibition setup,Exhibition setup,H33,"Exhibition setup, performance facilitation, audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:performance facilitation,performance facilitation,H33,"Exhibition setup, performance facilitation, audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:audience engagement,audience engagement,H33,"Exhibition setup, performance facilitation, audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:informal discussion circles,Informal discussion circles,H34,"Informal discussion circles, documentation of impressions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,methods,methods:documentation of impressions,documentation of impressions,H34,"Informal discussion circles, documentation of impressions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C09,data_source,"data_source:artistic outputs (objects, texts, sounds, performances)","artistic outputs (objects, texts, sounds, performances)",N30,"artistic outputs (objects, texts, sounds, performances)",trim whitespace; case-insensitive key
+C09,data_source,data_source:participant feedback,participant feedback,N31,participant feedback,trim whitespace; case-insensitive key
+C09,data_source,data_source:audience reactions,audience reactions,N32,audience reactions,trim whitespace; case-insensitive key
+C09,stage,stage:initial workshops and brainstorming,Initial Workshops and Brainstorming,F30,Initial Workshops and Brainstorming	,trim whitespace; case-insensitive key
+C09,stage,stage:development phase,Development Phase,F31,Development Phase	,trim whitespace; case-insensitive key
+C09,stage,stage:creation of works,Creation of Works,F32,Creation of Works	,trim whitespace; case-insensitive key
+C09,stage,stage:public exhibition and performance,Public Exhibition and Performance,F33,Public Exhibition and Performance	,trim whitespace; case-insensitive key
+C09,stage,stage:reflection,Reflection,F34,Reflection	,trim whitespace; case-insensitive key
+C09,institution,institution:milk crate theatre,Milk Crate Theatre,D30,Milk Crate Theatre,trim whitespace; case-insensitive key
+C09,data_type,data_type:qualitative,Qualitative,M30,Qualitative ,trim whitespace; case-insensitive key
+C09,type,type:participatory creative project / installation + performance,Participatory Creative Project / Installation + Performance,B30,Participatory Creative Project / Installation + Performance,trim whitespace; case-insensitive key
+C10,practices,practices:participatory framing,Participatory framing,I35,"Participatory framing, accessibility-centered design",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:accessibility-centered design,accessibility-centered design,I35,"Participatory framing, accessibility-centered design",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:sensitizing exercises,Sensitizing exercises,I36,"Sensitizing exercises, embodied ideation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:embodied ideation,embodied ideation,I36,"Sensitizing exercises, embodied ideation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:prototyping,Prototyping,I37,"Prototyping, narrative building, multi-modal expression",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:narrative building,narrative building,I37,"Prototyping, narrative building, multi-modal expression",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:multi-modal expression,multi-modal expression,I37,"Prototyping, narrative building, multi-modal expression",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:reflective practice,Reflective practice,I38,"Reflective practice, community storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,practices,practices:community storytelling,community storytelling,I38,"Reflective practice, community storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:onboarding sessions,Onboarding sessions,H35,"Onboarding sessions, introduction workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:introduction workshops,introduction workshops,H35,"Onboarding sessions, introduction workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:free writing prompts,Free writing prompts,H36,"Free writing prompts, visual arts exploration, movement games	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:visual arts exploration,visual arts exploration,H36,"Free writing prompts, visual arts exploration, movement games	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:movement games,movement games,H36,"Free writing prompts, visual arts exploration, movement games	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:collaborative art-making sessions,Collaborative art-making sessions,H37,"Collaborative art-making sessions, workshop series	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:workshop series,workshop series,H37,"Collaborative art-making sessions, workshop series	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:sharing circles,Sharing circles,H38,"Sharing circles, feedback sessions, informal showcases	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:feedback sessions,feedback sessions,H38,"Sharing circles, feedback sessions, informal showcases	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,methods,methods:informal showcases,informal showcases,H38,"Sharing circles, feedback sessions, informal showcases	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C10,data_source,"data_source:creative outputs (texts, artworks, performances)","creative outputs (texts, artworks, performances)",N35,"creative outputs (texts, artworks, performances)",trim whitespace; case-insensitive key
+C10,data_source,data_source:participant reflections,participant reflections,N36,participant reflections,trim whitespace; case-insensitive key
+C10,data_source,data_source:facilitator observations,facilitator observations,N37,facilitator observations,trim whitespace; case-insensitive key
+C10,stage,stage:initial engagement and framing,Initial Engagement and Framing,F35,Initial Engagement and Framing	,trim whitespace; case-insensitive key
+C10,stage,stage:creative exploration,Creative Exploration,F36,Creative Exploration	,trim whitespace; case-insensitive key
+C10,stage,stage:art-making and development,Art-Making and Development,F37,Art-Making and Development	,trim whitespace; case-insensitive key
+C10,stage,stage:sharing and reflection,Sharing and Reflection,F38,Sharing and Reflection	,trim whitespace; case-insensitive key
+C10,institution,institution:milk crate theatre,Milk Crate Theatre,D35,Milk Crate Theatre,trim whitespace; case-insensitive key
+C10,data_type,data_type:qualitative,Qualitative,M35,Qualitative,trim whitespace; case-insensitive key
+C10,type,type:workshop series / artistic capacity building,Workshop Series / Artistic Capacity Building,B35,Workshop Series / Artistic Capacity Building,trim whitespace; case-insensitive key
+C11,practices,practices:sensitizing activities,Sensitizing activities,I39,"Sensitizing activities, narrative framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:narrative framing,narrative framing,I39,"Sensitizing activities, narrative framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:collaborative prototyping,Collaborative prototyping,I40,"Collaborative prototyping, interdisciplinary co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:interdisciplinary co-creation,interdisciplinary co-creation,I40,"Collaborative prototyping, interdisciplinary co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:immersive environment building,Immersive environment building,I41,"Immersive environment building, experience prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:experience prototyping,experience prototyping,I41,"Immersive environment building, experience prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:audience-centered performance,Audience-centered performance,I42,"Audience-centered performance, live feedback gathering",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:live feedback gathering,live feedback gathering,I42,"Audience-centered performance, live feedback gathering",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:reflective practice,Reflective practice,I43,"Reflective practice, community storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,practices,practices:community storytelling,community storytelling,I43,"Reflective practice, community storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:group discussions,Group discussions,H39,"Group discussions, movement improvisation, thematic exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:movement improvisation,movement improvisation,H39,"Group discussions, movement improvisation, thematic exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:thematic exploration,thematic exploration,H39,"Group discussions, movement improvisation, thematic exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:creative writing,Creative writing,H40,"Creative writing, physical theatre, digital media exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:physical theatre,physical theatre,H40,"Creative writing, physical theatre, digital media exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:digital media exploration,digital media exploration,H40,"Creative writing, physical theatre, digital media exploration	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:technical rehearsals,Technical rehearsals,H41,"Technical rehearsals, staging, digital media integration workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:staging,staging,H41,"Technical rehearsals, staging, digital media integration workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:digital media integration workshops,digital media integration workshops,H41,"Technical rehearsals, staging, digital media integration workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:performance event,Performance event,H42,"Performance event, audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:audience engagement,audience engagement,H42,"Performance event, audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:group discussions,Group discussions,H43,"Group discussions, informal debriefings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,methods,methods:informal debriefings,informal debriefings,H43,"Group discussions, informal debriefings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C11,data_source,"data_source:artistic outputs (movement, text, projections)","artistic outputs (movement, text, projections)",N39,"artistic outputs (movement, text, projections)",trim whitespace; case-insensitive key
+C11,data_source,data_source:participant reflections,participant reflections,N40,participant reflections,trim whitespace; case-insensitive key
+C11,data_source,data_source:audience experience observations,audience experience observations,N41,audience experience observations,trim whitespace; case-insensitive key
+C11,stage,stage:concept framing and exploration,Concept Framing and Exploration,F39,Concept Framing and Exploration	,trim whitespace; case-insensitive key
+C11,stage,stage:creative development workshops,Creative Development Workshops,F40,Creative Development Workshops	,trim whitespace; case-insensitive key
+C11,stage,stage:rehearsals and production,Rehearsals and Production,F41,Rehearsals and Production	,trim whitespace; case-insensitive key
+C11,stage,stage:public presentation,Public Presentation,F42,Public Presentation	,trim whitespace; case-insensitive key
+C11,stage,stage:reflection,Reflection,F43,Reflection,trim whitespace; case-insensitive key
+C11,institution,"institution:milk crate theatre, in collaboration with box of birds","Milk Crate Theatre, in collaboration with Box of Birds",D39,"Milk Crate Theatre, in collaboration with Box of Birds",trim whitespace; case-insensitive key
+C11,data_type,data_type:qualitative,Qualitative,M39,Qualitative ,trim whitespace; case-insensitive key
+C11,type,type:participatory immersive theatre and digital installation,Participatory Immersive Theatre and Digital Installation,B39,Participatory Immersive Theatre and Digital Installation,trim whitespace; case-insensitive key
+C12,practices,practices:co-curation,Co-curation,I44,"Co-curation, participatory memory mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:participatory memory mapping,participatory memory mapping,I44,"Co-curation, participatory memory mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:exhibition design,Exhibition design,I45,"Exhibition design, visual storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:visual storytelling,visual storytelling,I45,"Exhibition design, visual storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:community building,Community building,I46,"Community building, dialogic engagement",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:dialogic engagement,dialogic engagement,I46,"Community building, dialogic engagement",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:collective storytelling,Collective storytelling,I47,"Collective storytelling, relational evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,practices,practices:relational evaluation,relational evaluation,I47,"Collective storytelling, relational evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:archive curation,Archive curation,H44,"Archive curation, collaborative selection, storytelling framing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:collaborative selection,collaborative selection,H44,"Archive curation, collaborative selection, storytelling framing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:storytelling framing,storytelling framing,H44,"Archive curation, collaborative selection, storytelling framing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:spatial design,Spatial design,H45,"Spatial design, multimedia setup	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:multimedia setup,multimedia setup,H45,"Spatial design, multimedia setup	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:public events facilitation,Public events facilitation,H46,"Public events facilitation, participatory speaking spaces	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:participatory speaking spaces,participatory speaking spaces,H46,"Public events facilitation, participatory speaking spaces	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:informal reflection circles,Informal reflection circles,H47,"Informal reflection circles, event observations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,methods,methods:event observations,event observations,H47,"Informal reflection circles, event observations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C12,data_source,"data_source:visual documentation (photos, videos)","visual documentation (photos, videos)",N44,"visual documentation (photos, videos)",trim whitespace; case-insensitive key
+C12,data_source,data_source:public event feedback,public event feedback,N45,public event feedback,trim whitespace; case-insensitive key
+C12,data_source,data_source:artists' narratives,artists' narratives,N46,artists' narratives,trim whitespace; case-insensitive key
+C12,stage,stage:curation and preparation,Curation and Preparation,F44,Curation and Preparation	,trim whitespace; case-insensitive key
+C12,stage,stage:exhibition setup,Exhibition Setup,F45,Exhibition Setup	,trim whitespace; case-insensitive key
+C12,stage,stage:community engagement events,Community Engagement Events,F46,Community Engagement Events	,trim whitespace; case-insensitive key
+C12,stage,stage:reflection,Reflection,F47,Reflection	,trim whitespace; case-insensitive key
+C12,institution,institution:milk crate theatre,Milk Crate Theatre,D44,Milk Crate Theatre,trim whitespace; case-insensitive key
+C12,data_type,data_type:qualitative,Qualitative,M44,Qualitative ,trim whitespace; case-insensitive key
+C12,type,type:participatory retrospective exhibition and community engagement events,Participatory Retrospective Exhibition and Community Engagement Events,B44,Participatory Retrospective Exhibition and Community Engagement Events,trim whitespace; case-insensitive key
+C13,practices,practices:stakeholder engagement,Stakeholder engagement,I48,"Stakeholder engagement, participatory outreach",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:participatory outreach,participatory outreach,I48,"Stakeholder engagement, participatory outreach",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:participatory storytelling,Participatory storytelling,I49,"Participatory storytelling, embodied prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:embodied prototyping,embodied prototyping,I49,"Participatory storytelling, embodied prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:rapid feedback loops,Rapid feedback loops,I50,"Rapid feedback loops, participatory evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:participatory evaluation,participatory evaluation,I50,"Rapid feedback loops, participatory evaluation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:iterative program design,Iterative program design,I51,"Iterative program design, capacity-building analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,practices,practices:capacity-building analysis,capacity-building analysis,I51,"Iterative program design, capacity-building analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:itinerary planning,Itinerary planning,H48,"Itinerary planning, partnership coordination	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:partnership coordination,partnership coordination,H48,"Itinerary planning, partnership coordination	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:collaborative art workshops,Collaborative art workshops,H49,"Collaborative art workshops, inclusive embodied practices	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:inclusive embodied practices,inclusive embodied practices,H49,"Collaborative art workshops, inclusive embodied practices	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:post-workshop surveys,Post-workshop surveys,H50,"Post-workshop surveys, verbal reflections	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:verbal reflections,verbal reflections,H50,"Post-workshop surveys, verbal reflections	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:team debriefs,Team debriefs,H51,"Team debriefs, informal impact assessment	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,methods,methods:informal impact assessment,informal impact assessment,H51,"Team debriefs, informal impact assessment	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C13,data_source,data_source:participant feedback surveys,participant feedback surveys,N48,participant feedback surveys,trim whitespace; case-insensitive key
+C13,data_source,data_source:observational data,observational data,N49,observational data,trim whitespace; case-insensitive key
+C13,stage,stage:planning and outreach,Planning and Outreach,F48,Planning and Outreach	,trim whitespace; case-insensitive key
+C13,stage,stage:workshop facilitation,Workshop Facilitation,F49,Workshop Facilitation	,trim whitespace; case-insensitive key
+C13,stage,stage:participant feedback collection,Participant Feedback Collection,F50,Participant Feedback Collection	,trim whitespace; case-insensitive key
+C13,stage,stage:reflection,Reflection,F51,Reflection	,trim whitespace; case-insensitive key
+C13,institution,institution:milk crate theatre,Milk Crate Theatre,D48,Milk Crate Theatre,trim whitespace; case-insensitive key
+C13,data_type,data_type:qualitative and quantitative,Qualitative and Quantitative,M48,Qualitative and Quantitative,trim whitespace; case-insensitive key
+C13,type,type:participatory regional workshop series / skill building and creative exchange,Participatory Regional Workshop Series / Skill Building and Creative Exchange,B48,Participatory Regional Workshop Series / Skill Building and Creative Exchange,trim whitespace; case-insensitive key
+C14,practices,practices:capacity building,Capacity building,I52,"Capacity building, creative identity formation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:creative identity formation,creative identity formation,I52,"Capacity building, creative identity formation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:participatory prototyping,Participatory prototyping,I53,"Participatory prototyping, personalized project development",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:personalized project development,personalized project development,I53,"Participatory prototyping, personalized project development",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:safe space evaluation,Safe space evaluation,I54,"Safe space evaluation, peer-driven critique",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:peer-driven critique,peer-driven critique,I54,"Safe space evaluation, peer-driven critique",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:reflective practice,Reflective practice,I55,"Reflective practice, empowerment tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,practices,practices:empowerment tracking,empowerment tracking,I55,"Reflective practice, empowerment tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:skills-building workshops,Skills-building workshops,H52,"Skills-building workshops, planning exercises, reflective sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:planning exercises,planning exercises,H52,"Skills-building workshops, planning exercises, reflective sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:reflective sessions,reflective sessions,H52,"Skills-building workshops, planning exercises, reflective sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:makerspace residencies,Makerspace residencies,H53,"Makerspace residencies, mentorship sessions, dramaturgical support	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:mentorship sessions,mentorship sessions,H53,"Makerspace residencies, mentorship sessions, dramaturgical support	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:dramaturgical support,dramaturgical support,H53,"Makerspace residencies, mentorship sessions, dramaturgical support	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:internal sharing events,Internal sharing events,H54,"Internal sharing events, feedback circles	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:feedback circles,feedback circles,H54,"Internal sharing events, feedback circles	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:verbal reflections,Verbal reflections,H55,"Verbal reflections, feedback surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,methods,methods:feedback surveys,feedback surveys,H55,"Verbal reflections, feedback surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C14,data_source,data_source:self-assessment reflections,self-assessment reflections,N52,self-assessment reflections,trim whitespace; case-insensitive key
+C14,data_source,data_source:workshop feedback,workshop feedback,N53,workshop feedback,trim whitespace; case-insensitive key
+C14,data_source,data_source:observed changes in confidence and creative output,observed changes in confidence and creative output,N54,observed changes in confidence and creative output,trim whitespace; case-insensitive key
+C14,stage,stage:skills development (headway),Skills Development (HEADWAY),F52,Skills Development (HEADWAY)	,trim whitespace; case-insensitive key
+C14,stage,stage:creative project development (generate),Creative Project Development (GENERATE),F53,Creative Project Development (GENERATE)	,trim whitespace; case-insensitive key
+C14,stage,stage:in-house sharing,In-house Sharing,F54,In-house Sharing	,trim whitespace; case-insensitive key
+C14,stage,stage:reflection,Reflection,F55,Reflection	,trim whitespace; case-insensitive key
+C14,institution,institution:milk crate theatre,Milk Crate Theatre,D52,Milk Crate Theatre,trim whitespace; case-insensitive key
+C14,data_type,data_type:qualitative,Qualitative,M52,Qualitative ,trim whitespace; case-insensitive key
+C14,type,type:capacity building and creative project development program,Capacity Building and Creative Project Development Program,B52,Capacity Building and Creative Project Development Program,trim whitespace; case-insensitive key
+C15,practices,practices:participatory ideation,Participatory ideation,I56,"Participatory ideation, narrative prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:narrative prototyping,narrative prototyping,I56,"Participatory ideation, narrative prototyping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:digital making,Digital making,I57,"Digital making, hands-on co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:hands-on co-creation,hands-on co-creation,I57,"Digital making, hands-on co-creation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:iterative refinement,Iterative refinement,I58,"Iterative refinement, digital storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:digital storytelling,digital storytelling,I58,"Iterative refinement, digital storytelling",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:public validation,Public validation,I59,"Public validation, community visibility",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,practices,practices:community visibility,community visibility,I59,"Public validation, community visibility",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:story brainstorming sessions,Story brainstorming sessions,H56,"Story brainstorming sessions, screenplay writing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:screenplay writing,screenplay writing,H56,"Story brainstorming sessions, screenplay writing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:smartphone camera training,Smartphone camera training,H57,"Smartphone camera training, team shooting sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:team shooting sessions,team shooting sessions,H57,"Smartphone camera training, team shooting sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:collaborative editing workshops,Collaborative editing workshops,H58,Collaborative editing workshops	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:film festival submission,Film festival submission,H59,"Film festival submission, public audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,methods,methods:public audience engagement,public audience engagement,H59,"Film festival submission, public audience engagement	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C15,data_source,data_source:film production output,film production output,N56,film production output,trim whitespace; case-insensitive key
+C15,data_source,data_source:festival recognition,festival recognition,N57,festival recognition,trim whitespace; case-insensitive key
+C15,data_source,data_source:observational reports,observational reports,N58,observational reports,trim whitespace; case-insensitive key
+C15,stage,stage:story selection and development,Story Selection and Development,F56,Story Selection and Development	,trim whitespace; case-insensitive key
+C15,stage,stage:filmmaking workshops,Filmmaking Workshops,F57,Filmmaking Workshops	,trim whitespace; case-insensitive key
+C15,stage,stage:editing and post-production,Editing and Post-Production,F58,Editing and Post-Production	,trim whitespace; case-insensitive key
+C15,stage,stage:public screening,Public Screening,F59,Public Screening	,trim whitespace; case-insensitive key
+C15,institution,institution:milk crate theatre (in collaboration with sf3 and hopestreet youth services),Milk Crate Theatre (in collaboration with SF3 and HopeStreet Youth Services),D56,Milk Crate Theatre (in collaboration with SF3 and HopeStreet Youth Services),trim whitespace; case-insensitive key
+C15,data_type,data_type:qualitative,Qualitative,M56,Qualitative ,trim whitespace; case-insensitive key
+C15,type,type:workshop series,Workshop Series,B56,Workshop Series,trim whitespace; case-insensitive key
+C16,practices,practices:sensitizing exercises,Sensitizing exercises,I60,"Sensitizing exercises, inclusive ideation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:inclusive ideation,inclusive ideation,I60,"Sensitizing exercises, inclusive ideation",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:iterative script development,Iterative script development,I61,"Iterative script development, skills scaffolding",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:skills scaffolding,skills scaffolding,I61,"Iterative script development, skills scaffolding",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:participatory co-creation,Participatory co-creation,I62,"Participatory co-creation, user-centered writing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:user-centered writing,user-centered writing,I62,"Participatory co-creation, user-centered writing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:reflective practice,Reflective practice,I63,"Reflective practice, empowerment-focused learning",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,practices,practices:empowerment-focused learning,empowerment-focused learning,I63,"Reflective practice, empowerment-focused learning",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:brainstorming sessions,Brainstorming sessions,H60,"Brainstorming sessions, narrative mapping	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:narrative mapping,narrative mapping,H60,"Brainstorming sessions, narrative mapping	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:creative writing workshops,Creative writing workshops,H61,"Creative writing workshops, peer discussions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:peer discussions,peer discussions,H61,"Creative writing workshops, peer discussions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:drafting sessions,Drafting sessions,H62,"Drafting sessions, guided feedback	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:guided feedback,guided feedback,H62,"Drafting sessions, guided feedback	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:group discussions,Group discussions,H63,"Group discussions, personal storytelling exercises	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,methods,methods:personal storytelling exercises,personal storytelling exercises,H63,"Group discussions, personal storytelling exercises	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C16,data_source,data_source:original scripts,original scripts,N60,original scripts,trim whitespace; case-insensitive key
+C16,data_source,data_source:participant reflections,participant reflections,N61,participant reflections,trim whitespace; case-insensitive key
+C16,data_source,data_source:facilitator observations,facilitator observations,N62,facilitator observations,trim whitespace; case-insensitive key
+C16,stage,stage:storytelling exploration,Storytelling Exploration,F60,Storytelling Exploration	,trim whitespace; case-insensitive key
+C16,stage,stage:skill development in writing,Skill Development in Writing,F61,Skill Development in Writing	,trim whitespace; case-insensitive key
+C16,stage,stage:script crafting,Script Crafting,F62,Script Crafting	,trim whitespace; case-insensitive key
+C16,stage,stage:reflection,Reflection,F63,Reflection,trim whitespace; case-insensitive key
+C16,institution,institution:milk crate theatre (in collaboration with twenty10),Milk Crate Theatre (in collaboration with Twenty10),D60,Milk Crate Theatre (in collaboration with Twenty10),trim whitespace; case-insensitive key
+C16,data_type,data_type:qualitative,Qualitative,M60,Qualitative ,trim whitespace; case-insensitive key
+C16,type,type:workshop series,Workshop Series,B60,Workshop Series,trim whitespace; case-insensitive key
+C17,practices,practices:embodied ideation,Embodied ideation,I64,"Embodied ideation, physical literacy development/ Body storming",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:physical literacy development/ body storming,physical literacy development/ Body storming,I64,"Embodied ideation, physical literacy development/ Body storming",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:collaborative co-creation,Collaborative co-creation,I65,"Collaborative co-creation, play-based learning",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:play-based learning,play-based learning,I65,"Collaborative co-creation, play-based learning",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:rapid prototyping,Rapid prototyping,I66,"Rapid prototyping, collective expression",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:collective expression,collective expression,I66,"Rapid prototyping, collective expression",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:reflective practice,Reflective practice,I67,"Reflective practice, confidence tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,practices,practices:confidence tracking,confidence tracking,I67,"Reflective practice, confidence tracking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:physical games,Physical games,H64,"Physical games, movement improvisation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:movement improvisation,movement improvisation,H64,"Physical games, movement improvisation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:theatre improvisation games,Theatre improvisation games,H65,Theatre improvisation games	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:team-based acting games,Team-based acting games,H66,Team-based acting games	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:observational feedback,Observational feedback,H67,"Observational feedback, informal group discussions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,methods,methods:informal group discussions,informal group discussions,H67,"Observational feedback, informal group discussions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C17,data_source,data_source:observational reports,observational reports,N64,observational reports,trim whitespace; case-insensitive key
+C17,data_source,data_source:participant feedback,participant feedback,N65,participant feedback,trim whitespace; case-insensitive key
+C17,stage,stage:movement exploration,Movement Exploration,F64,Movement Exploration	,trim whitespace; case-insensitive key
+C17,stage,stage:improvisation exercises,Improvisation Exercises,F65,Improvisation Exercises	,trim whitespace; case-insensitive key
+C17,stage,stage:performance games,Performance Games,F66,Performance Games	,trim whitespace; case-insensitive key
+C17,stage,stage:reflection,Reflection,F67,Reflection	,trim whitespace; case-insensitive key
+C17,institution,institution:milk crate theatre (in collaboration with hopestreet youth services and weave youth & community services),Milk Crate Theatre (in collaboration with HopeStreet Youth Services and Weave Youth & Community Services),D64,Milk Crate Theatre (in collaboration with HopeStreet Youth Services and Weave Youth & Community Services),trim whitespace; case-insensitive key
+C17,data_type,data_type:qualitative,Qualitative,M64,Qualitative,trim whitespace; case-insensitive key
+C17,type,type:theatre workshops,Theatre Workshops,B64,Theatre Workshops,trim whitespace; case-insensitive key
+C18,practices,practices:collaborative planning templates,Collaborative planning templates,I68,"Collaborative planning templates, project scoping tools	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:project scoping tools,project scoping tools,I68,"Collaborative planning templates, project scoping tools	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:co-creation platforms,Co-creation platforms,I69,"Co-creation platforms, participatory art practices	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:participatory art practices,participatory art practices,I69,"Co-creation platforms, participatory art practices	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:exhibit design tools,Exhibit design tools,I70,"Exhibit design tools, presentation planning aids	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:presentation planning aids,presentation planning aids,I70,"Exhibit design tools, presentation planning aids	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:reflective mapping tools,Reflective mapping tools,I71,"Reflective mapping tools, peer feedback templates	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,practices,practices:peer feedback templates,peer feedback templates,I71,"Reflective mapping tools, peer feedback templates	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:course briefings,Course briefings,H68,"Course briefings, interdisciplinary team formation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:interdisciplinary team formation,interdisciplinary team formation,H68,"Course briefings, interdisciplinary team formation	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,"methods:group projects (zines, artworks, blogs, proposals)","Group projects (zines, artworks, blogs, proposals)",H69,"Group projects (zines, artworks, blogs, proposals); online forums	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:online forums,online forums,H69,"Group projects (zines, artworks, blogs, proposals); online forums	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:public exhibitions,Public exhibitions,H70,"Public exhibitions, blog presentations, participatory sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:blog presentations,blog presentations,H70,"Public exhibitions, blog presentations, participatory sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:participatory sessions,participatory sessions,H70,"Public exhibitions, blog presentations, participatory sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:reflective journals,Reflective journals,H71,"Reflective journals, peer assessments, pre- and post-surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:peer assessments,peer assessments,H71,"Reflective journals, peer assessments, pre- and post-surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,methods,methods:pre- and post-surveys,pre- and post-surveys,H71,"Reflective journals, peer assessments, pre- and post-surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C18,data_source,data_source:pre- and post-course surveys,pre- and post-course surveys,N68,pre- and post-course surveys,trim whitespace; case-insensitive key
+C18,data_source,data_source:creative outputs,creative outputs,N69,creative outputs,trim whitespace; case-insensitive key
+C18,data_source,data_source:reflective journals,reflective journals,N70,reflective journals,trim whitespace; case-insensitive key
+C18,data_source,data_source:peer feedback,peer feedback,N71,peer feedback,trim whitespace; case-insensitive key
+C18,stage,stage:preparation and framing,Preparation and Framing,F68,Preparation and Framing	,trim whitespace; case-insensitive key
+C18,stage,stage:interdisciplinary collaboration and production,Interdisciplinary Collaboration and Production,F69,Interdisciplinary Collaboration and Production	,trim whitespace; case-insensitive key
+C18,stage,stage:presentation and exhibition,Presentation and Exhibition,F70,Presentation and Exhibition	,trim whitespace; case-insensitive key
+C18,stage,stage:reflection and assessment,Reflection and Assessment,F71,Reflection and Assessment	,trim whitespace; case-insensitive key
+C18,institution,"institution:monash university, faculty of art and design (australia)","Monash University, Faculty of Art and Design (Australia)",D68,"Monash University, Faculty of Art and Design (Australia)",trim whitespace; case-insensitive key
+C18,data_type,data_type:quantitative,Quantitative,M68,Quantitative ,trim whitespace; case-insensitive key
+C18,data_type,data_type:qualitative,Qualitative,M69,Qualitative,trim whitespace; case-insensitive key
+C18,type,type:project,Project,B68,Project,trim whitespace; case-insensitive key
+C19,practices,practices:creative method scenario planning,Creative method scenario planning,I72,Creative method scenario planning; participant grouping templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:participant grouping templates,participant grouping templates,I72,Creative method scenario planning; participant grouping templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:badideas creative prompting sheets,BadIdeas creative prompting sheets,I73,BadIdeas creative prompting sheets; brainstorming facilitation tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:brainstorming facilitation tools,brainstorming facilitation tools,I73,BadIdeas creative prompting sheets; brainstorming facilitation tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:idea quality rating scales,Idea quality rating scales,I74,Idea quality rating scales; reflective survey tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:reflective survey tools,reflective survey tools,I74,Idea quality rating scales; reflective survey tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:composite impact evaluation model,Composite impact evaluation model,I75,Composite impact evaluation model	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,practices,practices:evaluation synthesis framework,Evaluation synthesis framework,I76,Evaluation synthesis framework	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:controlled experimental design,Controlled experimental design,H72,Controlled experimental design; participant randomization	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:participant randomization,participant randomization,H72,Controlled experimental design; participant randomization	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:badideas exercises,BadIdeas exercises,H73,BadIdeas exercises; group and individual ideation sessions	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:group and individual ideation sessions,group and individual ideation sessions,H73,BadIdeas exercises; group and individual ideation sessions	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:idea counting,Idea counting,H74,"Idea counting, novelty/appropriateness scoring; post-task surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:novelty/appropriateness scoring,novelty/appropriateness scoring,H74,"Idea counting, novelty/appropriateness scoring; post-task surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:post-task surveys,post-task surveys,H74,"Idea counting, novelty/appropriateness scoring; post-task surveys	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:value metric computation (combining scores),Value Metric computation (combining scores),H75,Value Metric computation (combining scores)	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:comparative analysis,Comparative analysis,H76,Comparative analysis; discussion of experimental findings	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,methods,methods:discussion of experimental findings,discussion of experimental findings,H76,Comparative analysis; discussion of experimental findings	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C19,data_source,data_source:number of ideas,number of ideas,N72,number of ideas,trim whitespace; case-insensitive key
+C19,data_source,data_source:quality ratings,quality ratings,N73,quality ratings,trim whitespace; case-insensitive key
+C19,data_source,data_source:survey results,survey results,N74,survey results,trim whitespace; case-insensitive key
+C19,stage,stage:experimental design setup,Experimental Design Setup,F72,Experimental Design Setup	,trim whitespace; case-insensitive key
+C19,stage,stage:creative task execution,Creative Task Execution,F73,Creative Task Execution	,trim whitespace; case-insensitive key
+C19,stage,stage:data collection,Data Collection,F74,Data Collection	,trim whitespace; case-insensitive key
+C19,stage,stage:analysis using value metric,Analysis using Value Metric,F75,Analysis using Value Metric	,trim whitespace; case-insensitive key
+C19,stage,stage:reflection,Reflection,F76,Reflection,trim whitespace; case-insensitive key
+C19,institution,"institution:university of central lancashire, united kingdom","University of Central Lancashire, United Kingdom",D72,"University of Central Lancashire, United Kingdom",trim whitespace; case-insensitive key
+C19,data_type,data_type:quantitative,Quantitative,M72,Quantitative,trim whitespace; case-insensitive key
+C19,type,type:method,Method,B72,Method,trim whitespace; case-insensitive key
+C20,practices,practices:visual storytelling boards,Visual storytelling boards,I77,Visual storytelling boards	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,practices,practices:informal community exhibition,Informal community exhibition,I78,Informal community exhibition	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,practices,practices:creative synthesis templates,Creative synthesis templates,I79,"Creative synthesis templates, theme identification	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,practices,practices:theme identification,theme identification,I79,"Creative synthesis templates, theme identification	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,practices,practices:reflective feedback templates,Reflective feedback templates,I80,Reflective feedback templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:tri-fold poster boards,Tri-Fold poster boards,H77,"Tri-Fold poster boards, creative self-expression	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:creative self-expression,creative self-expression,H77,"Tri-Fold poster boards, creative self-expression	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:informal presentation sessions,Informal presentation sessions,H78,"Informal presentation sessions, community exhibitions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:community exhibitions,community exhibitions,H78,"Informal presentation sessions, community exhibitions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:thematic categorization of visual outputs,Thematic categorization of visual outputs,H79,Thematic categorization of visual outputs	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:informal educator debriefs,Informal educator debriefs,H80,"Informal educator debriefs, synthesis of evaluation observations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,methods,methods:synthesis of evaluation observations,synthesis of evaluation observations,H80,"Informal educator debriefs, synthesis of evaluation observations	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C20,data_source,data_source:visual documentation (displays),visual documentation (displays),N77,visual documentation (displays),trim whitespace; case-insensitive key
+C20,data_source,data_source:thematic categorization of participant learning outcomes,thematic categorization of participant learning outcomes,N78,thematic categorization of participant learning outcomes,trim whitespace; case-insensitive key
+C20,stage,stage:creative display development,Creative Display Development,F77,Creative Display Development	,trim whitespace; case-insensitive key
+C20,stage,stage:presentation to community,Presentation to Community,F78,Presentation to Community	,trim whitespace; case-insensitive key
+C20,stage,stage:analysis of themes,Analysis of Themes,F79,Analysis of Themes	,trim whitespace; case-insensitive key
+C20,stage,stage:reflection,Reflection,F80,Reflection,trim whitespace; case-insensitive key
+C20,institution,institution:texas a&m agrilife extension (south texas buckskin brigade program),Texas A&M AgriLife Extension (South Texas Buckskin Brigade program),D77,Texas A&M AgriLife Extension (South Texas Buckskin Brigade program),trim whitespace; case-insensitive key
+C20,data_type,data_type:qualitative,Qualitative,M77,Qualitative ,trim whitespace; case-insensitive key
+C20,type,type:experiment,Experiment,B77,Experiment,trim whitespace; case-insensitive key
+C21,practices,practices:structured aesthetic evaluation surveys,Structured aesthetic evaluation surveys,I81,Structured aesthetic evaluation surveys	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,practices,practices:voice diary recording templates,Voice diary recording templates,I82,Voice diary recording templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,practices,practices:group discussion frameworks,Group discussion frameworks,I83,Group discussion frameworks	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,practices,practices:comparative evaluation protocols,Comparative evaluation protocols,I84,Comparative evaluation protocols	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,practices,practices:focus group synthesis guides,Focus group synthesis guides,I85,Focus group synthesis guides	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:initial observation,Initial observation,H81,"Initial observation, questionnaires	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:questionnaires,questionnaires,H81,"Initial observation, questionnaires	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:personal audio diaries,Personal audio diaries,H82,Personal audio diaries	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:facilitated focus groups,Facilitated focus groups,H83,Facilitated focus groups	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:second observation session,Second observation session,H84,"Second observation session, questionnaires	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:questionnaires,questionnaires,H84,"Second observation session, questionnaires	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:final focus groups,Final focus groups,H85,"Final focus groups, verbal feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,methods,methods:verbal feedback collection,verbal feedback collection,H85,"Final focus groups, verbal feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+C21,data_source,data_source:audio reflections,audio reflections,N81,audio reflections,trim whitespace; case-insensitive key
+C21,data_source,data_source:focus group data,focus group data,N82,focus group data,trim whitespace; case-insensitive key
+C21,data_source,data_source:questionnaires,questionnaires,N83,questionnaires,trim whitespace; case-insensitive key
+C21,stage,stage:initial aesthetic evaluation,Initial Aesthetic Evaluation,F81,Initial Aesthetic Evaluation	,trim whitespace; case-insensitive key
+C21,stage,stage:daily reflection via audio diaries,Daily Reflection via Audio Diaries,F82,Daily Reflection via Audio Diaries	,trim whitespace; case-insensitive key
+C21,stage,stage:focus group reflection,Focus Group Reflection,F83,Focus Group Reflection	,trim whitespace; case-insensitive key
+C21,stage,stage:delayed re-exposure evaluation,Delayed Re-exposure Evaluation,F84,Delayed Re-exposure Evaluation	,trim whitespace; case-insensitive key
+C21,stage,stage:final reflection and focus groups,Final Reflection and Focus Groups,F85,Final Reflection and Focus Groups	,trim whitespace; case-insensitive key
+C21,institution,"institution:collaboration between ideo and university of california, san diego","Collaboration between IDEO and University of California, San Diego",D81,"Collaboration between IDEO and University of California, San Diego",trim whitespace; case-insensitive key
+C21,data_type,data_type:qualitative,Qualitative,M81,Qualitative ,trim whitespace; case-insensitive key
+C21,data_type,data_type:quantitative,Quantitative,M83,Quantitative ,trim whitespace; case-insensitive key
+C21,type,type:prototype,Prototype,B81,Prototype ,trim whitespace; case-insensitive key
+P01,practices,practices:stakeholder mapping,Stakeholder mapping,I2,"Stakeholder mapping, collaborative scoping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:collaborative scoping,collaborative scoping,I2,"Stakeholder mapping, collaborative scoping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:co-design of interventions,Co-design of interventions,I3,"Co-design of interventions, culturally adapted delivery",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:culturally adapted delivery,culturally adapted delivery,I3,"Co-design of interventions, culturally adapted delivery",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:feedback loops,Feedback loops,I4,"Feedback loops, community data sensemaking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:community data sensemaking,community data sensemaking,I4,"Feedback loops, community data sensemaking",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:iterative program refinement,Iterative program refinement,I5,"Iterative program refinement, participatory metrics",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,practices,practices:participatory metrics,participatory metrics,I5,"Iterative program refinement, participatory metrics",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:community advisory boards,Community advisory boards,H2,"Community advisory boards, county assessments, CHA recruitment	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:county assessments,county assessments,H2,"Community advisory boards, county assessments, CHA recruitment	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:cha recruitment,CHA recruitment,H2,"Community advisory boards, county assessments, CHA recruitment	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:locally led campaigns,Locally led campaigns,H3,"Locally led campaigns, education events, faith-based outreach	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:education events,education events,H3,"Locally led campaigns, education events, faith-based outreach	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:faith-based outreach,faith-based outreach,H3,"Locally led campaigns, education events, faith-based outreach	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:local reporting systems,Local reporting systems,H4,"Local reporting systems, CHA feedback, partnership meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:cha feedback,CHA feedback,H4,"Local reporting systems, CHA feedback, partnership meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:partnership meetings,partnership meetings,H4,"Local reporting systems, CHA feedback, partnership meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:pre/post data analysis,Pre/post data analysis,H5,"Pre/post data analysis, narrative outcomes, shared learning	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:narrative outcomes,narrative outcomes,H5,"Pre/post data analysis, narrative outcomes, shared learning	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,methods,methods:shared learning,shared learning,H5,"Pre/post data analysis, narrative outcomes, shared learning	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P01,data_source,data_source:health behavior tracking,health behavior tracking,N2,health behavior tracking,trim whitespace; case-insensitive key
+P01,data_source,data_source:campaign tracking,campaign tracking,N3,campaign tracking,trim whitespace; case-insensitive key
+P01,data_source,data_source:participant feedback,participant feedback,N4,participant feedback,trim whitespace; case-insensitive key
+P01,stage,stage:planning,Planning,F2,Planning,trim whitespace; case-insensitive key
+P01,stage,stage:implementation,Implementation,F3,Implementation,trim whitespace; case-insensitive key
+P01,stage,stage:participatory evaluation,Participatory Evaluation,F4,Participatory Evaluation	,trim whitespace; case-insensitive key
+P01,stage,stage:outcomes and feedback,Outcomes and Feedback,F5,Outcomes and Feedback	,trim whitespace; case-insensitive key
+P01,institution,institution:university of alabama at birmingham,University of Alabama at Birmingham,D2,University of Alabama at Birmingham,trim whitespace; case-insensitive key
+P01,data_type,data_type:qualitative and quantitative,Qualitative and Quantitative,M2,Qualitative and Quantitative,trim whitespace; case-insensitive key
+P01,type,type:community-based participatory evaluation / health equity intervention,Community-Based Participatory Evaluation / Health Equity Intervention,B2,Community-Based Participatory Evaluation / Health Equity Intervention,trim whitespace; case-insensitive key
+P02,practices,practices:trust building,Trust building,I6,"Trust building, shared ownership framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:shared ownership framing,shared ownership framing,I6,"Trust building, shared ownership framing",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:participatory planning,Participatory planning,I7,"Participatory planning, priority setting",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:priority setting,priority setting,I7,"Participatory planning, priority setting",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:capacity building,Capacity building,I8,"Capacity building, community research involvement",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:community research involvement,community research involvement,I8,"Capacity building, community research involvement",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:utilization-focused evaluation,Utilization-focused evaluation,I9,"Utilization-focused evaluation, participatory reporting",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,practices,practices:participatory reporting,participatory reporting,I9,"Utilization-focused evaluation, participatory reporting",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:initial workshops,Initial workshops,H6,"Initial workshops, participatory scoping, mutual agreement on roles	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:participatory scoping,participatory scoping,H6,"Initial workshops, participatory scoping, mutual agreement on roles	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:mutual agreement on roles,mutual agreement on roles,H6,"Initial workshops, participatory scoping, mutual agreement on roles	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:co-design workshops,Co-design workshops,H7,"Co-design workshops, brainstorming sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:brainstorming sessions,brainstorming sessions,H7,"Co-design workshops, brainstorming sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:training on data collection,Training on data collection,H8,"Training on data collection, semi-structured interviews, document review	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:semi-structured interviews,semi-structured interviews,H8,"Training on data collection, semi-structured interviews, document review	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:document review,document review,H8,"Training on data collection, semi-structured interviews, document review	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:feedback meetings,Feedback meetings,H9,"Feedback meetings, action plans based on results	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,methods,methods:action plans based on results,action plans based on results,H9,"Feedback meetings, action plans based on results	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P02,data_source,data_source:interview transcripts,interview transcripts,N6,interview transcripts,trim whitespace; case-insensitive key
+P02,data_source,data_source:organizational documents,organizational documents,N7,organizational documents,trim whitespace; case-insensitive key
+P02,data_source,data_source:meeting records,meeting records,N8,meeting records,trim whitespace; case-insensitive key
+P02,data_source,data_source:user feedback,user feedback,N9,user feedback,trim whitespace; case-insensitive key
+P02,stage,stage:framing and partnership building,Framing and Partnership Building,F6,Framing and Partnership Building,trim whitespace; case-insensitive key
+P02,stage,stage:co-planning of evaluation,Co-planning of Evaluation,F7,Co-planning of Evaluation	,trim whitespace; case-insensitive key
+P02,stage,stage:data collection and analysis,Data Collection and Analysis,F8,Data Collection and Analysis	,trim whitespace; case-insensitive key
+P02,stage,stage:utilization of results,Utilization of Results,F9,Utilization of Results	,trim whitespace; case-insensitive key
+P02,institution,institution:université de montréal,Université de Montréal,D6,Université de Montréal,trim whitespace; case-insensitive key
+P02,data_type,data_type:qualitative and quantitative,Qualitative and Quantitative,M6,Qualitative and Quantitative,trim whitespace; case-insensitive key
+P02,type,type:evaluation / experiment in an organizational setting,Evaluation / Experiment in an organizational setting,B6,Evaluation / Experiment in an organizational setting,trim whitespace; case-insensitive key
+P03,practices,practices:participatory framing,Participatory framing,I10,"Participatory framing, shared purpose",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:shared purpose,shared purpose,I10,"Participatory framing, shared purpose",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:question co-design,Question co-design,I11,"Question co-design, stakeholder prioritization",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:stakeholder prioritization,stakeholder prioritization,I11,"Question co-design, stakeholder prioritization",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:participatory research,Participatory research,I12,"Participatory research, group analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:group analysis,group analysis,I12,"Participatory research, group analysis",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,practices,practices:focused planning,Focused planning,I13,Focused planning,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:workshops,Workshops,H10,"Workshops, collaborative goal-setting	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:collaborative goal-setting,collaborative goal-setting,H10,"Workshops, collaborative goal-setting	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:group brainstorming,Group brainstorming,H11,"Group brainstorming, structured facilitation sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:structured facilitation sessions,structured facilitation sessions,H11,"Group brainstorming, structured facilitation sessions	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:simple surveys,Simple surveys,H12,"Simple surveys, collective interpretation meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:collective interpretation meetings,collective interpretation meetings,H12,"Simple surveys, collective interpretation meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,methods,methods:application planning sessions,Application planning sessions,H13,Application planning sessions	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P03,data_source,data_source:stakeholder perspectives,stakeholder perspectives,N10,stakeholder perspectives,trim whitespace; case-insensitive key
+P03,data_source,data_source:simple aggregated survey data,simple aggregated survey data,N11,simple aggregated survey data,trim whitespace; case-insensitive key
+P03,stage,stage:problem framing,Problem Framing,F10,Problem Framing,trim whitespace; case-insensitive key
+P03,stage,stage:collaborative question development,Collaborative Question Development,F11,Collaborative Question Development	,trim whitespace; case-insensitive key
+P03,stage,stage:data collection and analysis,Data Collection and Analysis,F12,Data Collection and Analysis	,trim whitespace; case-insensitive key
+P03,stage,stage:action based on findings,Action Based on Findings,F13,Action Based on Findings	,trim whitespace; case-insensitive key
+P03,institution,institution:local county day care council (specific institution anonymized),Local County Day Care Council (specific institution anonymized),D10,Local County Day Care Council (specific institution anonymized),trim whitespace; case-insensitive key
+P03,data_type,data_type:primarily qualitative,Primarily qualitative,M10,Primarily qualitative,trim whitespace; case-insensitive key
+P03,type,type:experiment/service improvement in childcare,Experiment/Service Improvement in Childcare,B10,Experiment/Service Improvement in Childcare,trim whitespace; case-insensitive key
+P04,practices,practices:participatory needs mapping,Participatory needs mapping,I14,Participatory needs mapping,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,practices,practices:goal co-definition,Goal co-definition,I15,"Goal co-definition, success mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,practices,practices:success mapping,success mapping,I15,"Goal co-definition, success mapping",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,practices,practices:capacity building,Capacity building,I16,"Capacity building, data democratization",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,practices,practices:data democratization,data democratization,I16,"Capacity building, data democratization",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,practices,practices:utilization-driven adaptation,Utilization-driven adaptation,I17,Utilization-driven adaptation,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:stakeholder meetings,Stakeholder meetings,H14,"Stakeholder meetings, facilitated discussion groups	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:facilitated discussion groups,facilitated discussion groups,H14,"Stakeholder meetings, facilitated discussion groups	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:success mapping workshops,Success mapping workshops,H15,"Success mapping workshops, group visioning	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:group visioning,group visioning,H15,"Success mapping workshops, group visioning	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:simple monitoring tools,Simple monitoring tools,H16,"Simple monitoring tools, analysis workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:analysis workshops,analysis workshops,H16,"Simple monitoring tools, analysis workshops	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,methods,methods:action planning meetings,Action planning meetings,H17,Action planning meetings	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P04,data_source,data_source:staff-generated data,staff-generated data,N14,staff-generated data,trim whitespace; case-insensitive key
+P04,data_source,data_source:program participation metrics,program participation metrics,N15,program participation metrics,trim whitespace; case-insensitive key
+P04,data_source,data_source:stakeholder reflections,stakeholder reflections,N16,"stakeholder reflections
+",trim whitespace; case-insensitive key
+P04,stage,stage:problem identification,Problem Identification,F14,Problem Identification	,trim whitespace; case-insensitive key
+P04,stage,stage:collaborative definition of success,Collaborative Definition of Success,F15,Collaborative Definition of Success	,trim whitespace; case-insensitive key
+P04,stage,stage:data collection and analysis,Data Collection and Analysis,F16,Data Collection and Analysis	,trim whitespace; case-insensitive key
+P04,stage,stage:application for program planning,Application for Program Planning,F17,Application for Program Planning	,trim whitespace; case-insensitive key
+P04,institution,institution:municipal city youth bureau (specific city anonymized),Municipal City Youth Bureau (specific city anonymized),D14,Municipal City Youth Bureau (specific city anonymized),trim whitespace; case-insensitive key
+P04,data_type,data_type:qualitative,Qualitative,M14,Qualitative ,trim whitespace; case-insensitive key
+P04,type,type:experiment/youth services program,Experiment/Youth Services Program,B14,Experiment/Youth Services Program,trim whitespace; case-insensitive key
+P05,practices,practices:collaborative session planning templates,Collaborative session planning templates,I18,"Collaborative session planning templates, facilitator mapping tools	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:facilitator mapping tools,facilitator mapping tools,I18,"Collaborative session planning templates, facilitator mapping tools	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:pocket chart boards,Pocket Chart boards,I19,"Pocket Chart boards, participatory sorting templates, storytelling cutouts (Flexiflans)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:participatory sorting templates,participatory sorting templates,I19,"Pocket Chart boards, participatory sorting templates, storytelling cutouts (Flexiflans)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:storytelling cutouts (flexiflans),storytelling cutouts (Flexiflans),I19,"Pocket Chart boards, participatory sorting templates, storytelling cutouts (Flexiflans)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:visual voting setups (pocket charts),Visual voting setups (Pocket Charts),I20,"Visual voting setups (Pocket Charts), narrative co-creation props (Flexiflans)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:narrative co-creation props (flexiflans),narrative co-creation props (Flexiflans),I20,"Visual voting setups (Pocket Charts), narrative co-creation props (Flexiflans)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:decision-mapping tools,Decision-mapping tools,I21,"Decision-mapping tools, simplified community planning charts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,practices,practices:simplified community planning charts,simplified community planning charts,I21,"Decision-mapping tools, simplified community planning charts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:pre-workshop planning sessions,Pre-workshop planning sessions,H18,"Pre-workshop planning sessions, training-of-trainers	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:training-of-trainers,training-of-trainers,H18,"Pre-workshop planning sessions, training-of-trainers	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:poster analysis exercises,Poster analysis exercises,H19,"Poster analysis exercises, introduction to Pocket Charts (Participatory survey tool using a physical board with pockets representing different categories	), Three-Pile Sorting (Participatory classification exercise using cards or images sorted into three piles), Flexiflans (Storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:introduction to pocket charts (participatory survey tool using a physical board with pockets representing different categories ),introduction to Pocket Charts (Participatory survey tool using a physical board with pockets representing different categories ),H19,"Poster analysis exercises, introduction to Pocket Charts (Participatory survey tool using a physical board with pockets representing different categories	), Three-Pile Sorting (Participatory classification exercise using cards or images sorted into three piles), Flexiflans (Storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:three-pile sorting (participatory classification exercise using cards or images sorted into three piles),Three-Pile Sorting (Participatory classification exercise using cards or images sorted into three piles),H19,"Poster analysis exercises, introduction to Pocket Charts (Participatory survey tool using a physical board with pockets representing different categories	), Three-Pile Sorting (Participatory classification exercise using cards or images sorted into three piles), Flexiflans (Storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,"methods:flexiflans (storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)","Flexiflans (Storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)",H19,"Poster analysis exercises, introduction to Pocket Charts (Participatory survey tool using a physical board with pockets representing different categories	), Three-Pile Sorting (Participatory classification exercise using cards or images sorted into three piles), Flexiflans (Storytelling and scenario-building tool using felt boards and movable paper cutouts of people, houses, objects)	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:pocket chart voting,Pocket Chart voting,H20,"Pocket Chart voting, storytelling with Flexiflans	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:storytelling with flexiflans,storytelling with Flexiflans,H20,"Pocket Chart voting, storytelling with Flexiflans	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:group analysis sessions,Group analysis sessions,H21,"Group analysis sessions, alternative planning meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,methods,methods:alternative planning meetings,alternative planning meetings,H21,"Group analysis sessions, alternative planning meetings	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P05,data_source,data_source:workshop discussions,workshop discussions,N18,workshop discussions,trim whitespace; case-insensitive key
+P05,data_source,data_source:participatory tool applications,participatory tool applications,N19,participatory tool applications,trim whitespace; case-insensitive key
+P05,data_source,data_source:community feedback,community feedback,N20,community feedback,trim whitespace; case-insensitive key
+P05,stage,stage:pre-planning workshop,Pre-Planning Workshop,F18,Pre-Planning Workshop	,trim whitespace; case-insensitive key
+P05,stage,stage:participatory monitoring and evaluation training,Participatory Monitoring and Evaluation Training,F19,Participatory Monitoring and Evaluation Training	,trim whitespace; case-insensitive key
+P05,stage,stage:field testing of new tools,Field Testing of New Tools,F20,Field Testing of New Tools	,trim whitespace; case-insensitive key
+P05,stage,stage:reflection and alternative planning,Reflection and Alternative Planning,F21,Reflection and Alternative Planning	,trim whitespace; case-insensitive key
+P05,institution,"institution:care/kenya – shewas project, with support from prowwess (rwsg-ea), kwaho, netwas, western kenya-finland western water supply program","CARE/Kenya – SHEWAS Project, with support from PROWWESS (RWSG-EA), KWAHO, NETWAS, Western Kenya-Finland Western Water Supply Program",D18,"CARE/Kenya – SHEWAS Project, with support from PROWWESS (RWSG-EA), KWAHO, NETWAS, Western Kenya-Finland Western Water Supply Program",trim whitespace; case-insensitive key
+P05,data_type,data_type:qualitative,Qualitative,M18,Qualitative ,trim whitespace; case-insensitive key
+P05,type,type:workshop,Workshop,B18,Workshop,trim whitespace; case-insensitive key
+P06,practices,practices:observational templates,Observational templates,I22,"Observational templates, site mapping sheets	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,practices,practices:site mapping sheets,site mapping sheets,I22,"Observational templates, site mapping sheets	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,practices,practices:creative question templates,Creative question templates,I23,Creative question templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,practices,practices:conversation guides,Conversation guides,I24,Conversation guides	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,practices,practices:interpretive planning frameworks,Interpretive planning frameworks,I25,Interpretive planning frameworks	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,methods,methods:observational tours,Observational tours,H22,Observational tours	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,methods,methods:simple,Simple,H23,"Simple, child-friendly survey forms	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,methods,methods:child-friendly survey forms,child-friendly survey forms,H23,"Simple, child-friendly survey forms	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,methods,methods:moderated focus group discussions,Moderated focus group discussions,H24,Moderated focus group discussions	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,methods,methods:thematic synthesis,Thematic synthesis,H25,Thematic synthesis	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P06,data_source,data_source:focus group discussions,focus group discussions,N22,focus group discussions,trim whitespace; case-insensitive key
+P06,data_source,data_source:observational feedback,observational feedback,N23,observational feedback,trim whitespace; case-insensitive key
+P06,stage,stage:site visits,Site Visits,F22,Site Visits	,trim whitespace; case-insensitive key
+P06,stage,stage:surveys with children,Surveys with Children,F23,Surveys with Children	,trim whitespace; case-insensitive key
+P06,stage,stage:focus group discussions,Focus Group Discussions,F24,Focus Group Discussions	,trim whitespace; case-insensitive key
+P06,stage,stage:synthesis into design principles,Synthesis into Design Principles,F25,Synthesis into Design Principles	,trim whitespace; case-insensitive key
+P06,institution,"institution:department of educational policy and administration, university of minnesota","Department of Educational Policy and Administration, University of Minnesota",D22,"Department of Educational Policy and Administration, University of Minnesota",trim whitespace; case-insensitive key
+P06,data_type,data_type:qualitative,Qualitative,M22,Qualitative,trim whitespace; case-insensitive key
+P06,type,type:methods,Methods,B22,Methods,trim whitespace; case-insensitive key
+P07,practices,practices:misconception tracking matrices,Misconception tracking matrices,I26,Misconception tracking matrices	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,practices,practices:interactive exhibit modules,Interactive exhibit modules,I27,Interactive exhibit modules	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,practices,practices:comparative learning assessment tools,Comparative learning assessment tools,I28,Comparative learning assessment tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,practices,practices:prototyping refinement frameworks,Prototyping refinement frameworks,I29,Prototyping refinement frameworks	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,methods,methods:structured interviews,Structured interviews,H26,Structured interviews	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,methods,methods:prototype exhibit construction,Prototype exhibit construction,H27,Prototype exhibit construction	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,methods,methods:follow-up interviews,Follow-up interviews,H28,Follow-up interviews	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,methods,methods:iterative redesign processes,Iterative redesign processes,H29,Iterative redesign processes	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P07,data_source,data_source:interviews,interviews,N26,interviews,trim whitespace; case-insensitive key
+P07,data_source,data_source:comparative assessment,Comparative assessment,N27,Comparative assessment,trim whitespace; case-insensitive key
+P07,stage,stage:pre-prototype interviews,Pre-Prototype Interviews,F26,Pre-Prototype Interviews	,trim whitespace; case-insensitive key
+P07,stage,stage:exhibit prototyping,Exhibit Prototyping,F27,Exhibit Prototyping	,trim whitespace; case-insensitive key
+P07,stage,stage:post-prototype interviews,Post-Prototype Interviews,F28,Post-Prototype Interviews	,trim whitespace; case-insensitive key
+P07,stage,stage:exhibit adjustment,Exhibit Adjustment,F29,Exhibit Adjustment	,trim whitespace; case-insensitive key
+P07,institution,institution:franklin institute science museum,Franklin Institute Science Museum,D26,Franklin Institute Science Museum,trim whitespace; case-insensitive key
+P07,data_type,data_type:qualitative,Qualitative,M26,Qualitative,trim whitespace; case-insensitive key
+P07,type,type:methods,Methods,B26,Methods,trim whitespace; case-insensitive key
+P08,practices,practices:data extraction templates for archives,Data extraction templates for archives,I30,Data extraction templates for archives	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,practices,practices:spatial mapping tools,spatial mapping tools,I31,"spatial mapping tools, demographic analysis models",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,practices,practices:demographic analysis models,demographic analysis models,I31,"spatial mapping tools, demographic analysis models",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,practices,practices:audience segmentation and strategic planning tools,Audience segmentation and strategic planning tools,I32,Audience segmentation and strategic planning tools	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,methods,methods:review of archival visitor-generated data,Review of archival visitor-generated data,H30,Review of archival visitor-generated data	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,methods,methods:spatial analysis,Spatial analysis,H31,"Spatial analysis, demographic cross-referencing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,methods,methods:demographic cross-referencing,demographic cross-referencing,H31,"Spatial analysis, demographic cross-referencing	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,methods,methods:strategic interpretation of findings,Strategic interpretation of findings,H32,Strategic interpretation of findings	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P08,data_source,data_source:archival records,archival records,N30,archival records,trim whitespace; case-insensitive key
+P08,data_source,data_source:archival records,archival records,N31,archival records,trim whitespace; case-insensitive key
+P08,stage,stage:archival data identification,Archival Data Identification,F30,Archival Data Identification	,trim whitespace; case-insensitive key
+P08,stage,stage:data analysis (spatial and demographic profiling),Data Analysis (Spatial and Demographic Profiling),F31,Data Analysis (Spatial and Demographic Profiling)	,trim whitespace; case-insensitive key
+P08,stage,stage:program adjustment,Program Adjustment,F32,Program Adjustment	,trim whitespace; case-insensitive key
+P08,institution,institution:not specified,Not specified,D30,Not specified,trim whitespace; case-insensitive key
+P08,data_type,data_type:quantitative,Quantitative,M30,Quantitative,trim whitespace; case-insensitive key
+P08,data_type,data_type:qualitative,Qualitative,M31,Qualitative,trim whitespace; case-insensitive key
+P08,type,type:methods,Methods,B30,Methods,trim whitespace; case-insensitive key
+P09,practices,practices:interactive participatory displays,Interactive participatory displays,I33,Interactive participatory displays	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,practices,practices:sticky note response systems,Sticky note response systems,I34,Sticky note response systems	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,practices,practices:visitor interaction spaces,Visitor interaction spaces,I35,Visitor interaction spaces	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,practices,practices:response analysis templates,Response analysis templates,I36,Response analysis templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,practices,practices:content and display redesign frameworks,Content and display redesign frameworks,I37,Content and display redesign frameworks	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:easel boards,Easel boards,H33,"Easel boards, pens, sticky notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:pens,pens,H33,"Easel boards, pens, sticky notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:sticky notes,sticky notes,H33,"Easel boards, pens, sticky notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:sticky notes,Sticky notes,H34,"Sticky notes, free-response feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:free-response feedback collection,free-response feedback collection,H34,"Sticky notes, free-response feedback collection	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:open,Open,H35,"Open, cumulative sticky note boards	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:cumulative sticky note boards,cumulative sticky note boards,H35,"Open, cumulative sticky note boards	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:manual coding and thematic grouping,Manual coding and thematic grouping,H36,Manual coding and thematic grouping	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,methods,methods:strategic redesign based on participant feedback,Strategic redesign based on participant feedback,H37,Strategic redesign based on participant feedback	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P09,data_source,data_source:visitor written responses,visitor written responses,N33,visitor written responses,trim whitespace; case-insensitive key
+P09,data_source,data_source:informal peer-generated interactions,informal peer-generated interactions,N34,informal peer-generated interactions,trim whitespace; case-insensitive key
+P09,stage,stage:survey board setup,Survey Board Setup,F33,Survey Board Setup	,trim whitespace; case-insensitive key
+P09,stage,stage:participant response collection,Participant Response Collection,F34,Participant Response Collection	,trim whitespace; case-insensitive key
+P09,stage,stage:peer interaction,Peer Interaction,F35,Peer Interaction	,trim whitespace; case-insensitive key
+P09,stage,stage:data compilation,Data Compilation,F36,Data Compilation	,trim whitespace; case-insensitive key
+P09,stage,stage:exhibit redesign,Exhibit Redesign,F37,Exhibit Redesign	,trim whitespace; case-insensitive key
+P09,institution,"institution:bradbury science museum, los alamos, new mexico","Bradbury Science Museum, Los Alamos, New Mexico",D33,"Bradbury Science Museum, Los Alamos, New Mexico",trim whitespace; case-insensitive key
+P09,data_type,data_type:qualitative,Qualitative,M33,Qualitative ,trim whitespace; case-insensitive key
+P09,type,type:methods,Methods,B33,Methods,trim whitespace; case-insensitive key
+P10,practices,practices:talk-aloud protocol guides,Talk-aloud protocol guides,I38,Talk-aloud protocol guides	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,practices,practices:reaction recording templates,Reaction recording templates,I39,Reaction recording templates	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,practices,practices:field notes templates,Field notes templates,I40,"Field notes templates, audio transcripts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,practices,practices:audio transcripts,audio transcripts,I40,"Field notes templates, audio transcripts	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,practices,practices:formative evaluation frameworks,Formative evaluation frameworks,I41,Formative evaluation frameworks	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:brief participant instruction,Brief participant instruction,H38,"Brief participant instruction, verbal prompting	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:verbal prompting,verbal prompting,H38,"Brief participant instruction, verbal prompting	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:guided verbal protocol recording,Guided verbal protocol recording,H39,Guided verbal protocol recording	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:audio recording,Audio recording,H40,"Audio recording, written observational notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:written observational notes,written observational notes,H40,"Audio recording, written observational notes	",split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,methods,methods:thematic and emotional analysis,Thematic and emotional analysis,H41,Thematic and emotional analysis	,split commas/semicolons/newlines outside parentheses; trim whitespace; case-insensitive key
+P10,data_source,data_source:verbal data from participant reflections,verbal data from participant reflections,N38,verbal data from participant reflections,trim whitespace; case-insensitive key
+P10,stage,stage:orientation and prompting,Orientation and Prompting,F38,Orientation and Prompting	,trim whitespace; case-insensitive key
+P10,stage,stage:talk-aloud walkthrough,Talk-Aloud Walkthrough,F39,Talk-Aloud Walkthrough	,trim whitespace; case-insensitive key
+P10,stage,stage:data collection,Data Collection,F40,Data Collection	,trim whitespace; case-insensitive key
+P10,stage,stage:analysis for formative or summative use,Analysis for Formative or Summative Use,F41,Analysis for Formative or Summative Use	,trim whitespace; case-insensitive key
+P10,institution,institution:not specified,Not specified,D38,Not specified,trim whitespace; case-insensitive key
+P10,data_type,data_type:qualitative,Qualitative,M38,Qualitative,trim whitespace; case-insensitive key
+P10,type,type:methods,Methods,B38,Methods,trim whitespace; case-insensitive key
+P11,type,type:mathodology,Mathodology,B42,Mathodology,trim whitespace; case-insensitive key
